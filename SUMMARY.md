@@ -1,5 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
+* [Part One](chapter1.md)
+    * [chapter one](chapter-one.md)
+* [Part Two](part-two.md)
 
