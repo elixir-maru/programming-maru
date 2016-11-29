@@ -18,8 +18,14 @@
         * 处理响应
         * 异常处理
         * 单元测试
+    * 第四章：部署
+        * 基本原则
+        * 部署到云
 * [第二部分：Maru最佳实践](part-two.md)
-    * [Chapter Two](chapter-two.md)
+    * [作为https server](chapter-two.md)
+    * 自动加载
+    * 集成ecto
+    * 集成swagger
 * 第三部分：与Phoenix集成
-    * 第一章
+    * 在Phoenix中使用Maru的params parse
 
